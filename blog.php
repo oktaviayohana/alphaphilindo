@@ -31,103 +31,125 @@
                     </div>
             </section>
             <!-- section close -->
-            <section class="no-top relative pos-top">
-				<div class="container">
-					<div class="row">
-
-						<div class="col-md-6">
-							<!-- Accordion -->
-							<div id="accordion-1" class="accordion accordion-style-1">
-
-								<!-- Accordion item 1 -->
-								<div class="card">
-									<div id="heading-a1" class="card-header bg-white shadow-sm border-0">
-										<h6 class="mb-0 font-weight-bold"><a href="#" data-toggle="collapse" data-target="#collapse-a1" aria-expanded="false" aria-controls="collapse-a1" class="d-block position-relative text-dark collapsible-link py-2">How Alpha Philindo help your business?</a></h6>
-									</div>
-									<div id="collapse-a1" aria-labelledby="heading-a1" data-parent="#accordion-1" class="collapse">
-										<div class="card-body p-4">
-											<p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
-										</div>
-									</div>
-								</div>
-
-								<!-- Accordion item 2 -->
-								<div class="card">
-									<div id="heading-a2" class="card-header bg-white shadow-sm border-0">
-										<h6 class="mb-0 font-weight-bold"><a href="#" data-toggle="collapse" data-target="#collapse-a2" aria-expanded="false" aria-controls="collapse-a2" class="d-block position-relative collapsed text-dark collapsible-link py-2">When was Alpha Philindo company founded?</a></h6>
-									</div>
-									<div id="collapse-a2" aria-labelledby="heading-a2" data-parent="#accordion-1" class="collapse">
-										<div class="card-body p-4">
-											<p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
-										</div>
-									</div>
-								</div>
-
-								<!-- Accordion item 3 -->
-								<div class="card">
-									<div id="heading-a3" class="card-header bg-white shadow-sm border-0">
-										<h6 class="mb-0 font-weight-bold"><a href="#" data-toggle="collapse" data-target="#collapse-a3" aria-expanded="false" aria-controls="collapse-a3" class="d-block position-relative collapsed text-dark collapsible-link py-2">What is Alpha Philindo vision and mission?</a></h6>
-									</div>
-									<div id="collapse-a3" aria-labelledby="heading-a3" data-parent="#accordion-1" class="collapse">
-										<div class="card-body p-4">
-											<p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
-										</div>
-									</div>
-								</div>
-
-							</div>
+            <section class="no-top">
+                <div class="container">
+                    <div class="row">
+						<div class="col-lg-4 col-md-6 mb30">
+							<div class="bloglist item">
+                                    <div class="post-content">
+                                        <div class="post-image">
+                                            <img alt="" src="images/news/1.jpg">
+                                            <div class="post-info">
+                                                <div class="inner">
+                                                    <span class="post-date">10 hours ago</span> <span class="post-author">Oscar Helman</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="post-text">
+                                            <h4><a href="blog-single.php">Better User Interface</a></h4>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        </div>
+                                    </div>
+                                </div>
 						</div>
 						
-
-						<div class="col-md-6">
-							<!-- Accordion -->
-							<div id="accordion-2" class="accordion accordion-style-1">
-
-								<!-- Accordion item 1 -->
-								<div class="card">
-									<div id="heading-b1" class="card-header bg-white shadow-sm border-0">
-										<h6 class="mb-0 font-weight-bold"><a href="#" data-toggle="collapse" data-target="#collapse-b1" aria-expanded="false" aria-controls="collapse-b1" class="d-block position-relative text-dark collapsible-link py-2">What are the business core of Alpha Philindo?</a></h6>
-									</div>
-									<div id="collapse-b1" aria-labelledby="heading-b1" data-parent="#accordion-2" class="collapse">
-										<div class="card-body p-4">
-											<p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
-										</div>
-									</div>
-								</div>
-
-								<!-- Accordion item 2 -->
-								<div class="card">
-									<div id="heading-b2" class="card-header bg-white shadow-sm border-0">
-										<h6 class="mb-0 font-weight-bold"><a href="#" data-toggle="collapse" data-target="#collapse-b2" aria-expanded="false" aria-controls="collapse-b2" class="d-block position-relative collapsed text-dark collapsible-link py-2">How many employess at Alpha Philindo?</a></h6>
-									</div>
-									<div id="collapse-b2" aria-labelledby="heading-b2" data-parent="#accordion-2" class="collapse">
-										<div class="card-body p-4">
-											<p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
-										</div>
-									</div>
-								</div>
-
-								<!-- Accordion item 3 -->
-								<div class="card">
-									<div id="heading-b3" class="card-header bg-white shadow-sm border-0">
-										<h6 class="mb-0 font-weight-bold"><a href="#" data-toggle="collapse" data-target="#collapse-b3" aria-expanded="false" aria-controls="collapse-b3" class="d-block position-relative collapsed text-dark collapsible-link py-2">Where is Alpha Philindo position on the market?</a></h6>
-									</div>
-									<div id="collapse-b3" aria-labelledby="heading-b3" data-parent="#accordion-2" class="collapse">
-										<div class="card-body p-4">
-											<p class="m-0">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.</p>
-										</div>
-									</div>
-								</div>
-
-							</div>
+						<div class="col-lg-4 col-md-6 mb30">
+							<div class="bloglist item">
+                                    <div class="post-content">
+                                        <div class="post-image">
+                                            <img alt="" src="images/news/2.jpg">
+                                            <div class="post-info">
+                                                <div class="inner">
+                                                    <span class="post-date">10 hours ago</span> <span class="post-author">Oscar Helman</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="post-text">
+                                            <h4><a href="blog-single.php">Experts Web Design Tips</a></h4>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        </div>
+                                    </div>
+                                </div>
 						</div>
 						
-
-					</div>
-
-				</div>
-				</div>
-			</section>
+						<div class="col-lg-4 col-md-6 mb30">
+							<div class="bloglist item">
+                                    <div class="post-content">
+                                        <div class="post-image">
+                                            <img alt="" src="images/news/3.jpg">
+                                            <div class="post-info">
+                                                <div class="inner">
+                                                    <span class="post-date">10 hours ago</span> <span class="post-author">Oscar Helman</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="post-text">
+                                            <h4><a href="blog-single.php">Importance Of Web Design</a></h4>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        </div>
+                                    </div>
+                                </div>
+						</div>
+						
+						<div class="col-lg-4 col-md-6 mb30">
+							<div class="bloglist item">
+                                    <div class="post-content">
+                                        <div class="post-image">
+                                            <img alt="" src="images/news/4.jpg">
+                                            <div class="post-info">
+                                                <div class="inner">
+                                                    <span class="post-date">10 hours ago</span> <span class="post-author">Oscar Helman</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="post-text">
+                                            <h4><a href="blog-single.php">Avoid These Erros In UI Design</a></h4>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        </div>
+                                    </div>
+                                </div>
+						</div>
+						
+						<div class="col-lg-4 col-md-6 mb30">
+						<div class="bloglist item">
+                                    <div class="post-content">
+                                        <div class="post-image">
+                                            <img alt="" src="images/news/5.jpg">
+                                            <div class="post-info">
+                                                <div class="inner">
+                                                    <span class="post-date">10 hours ago</span> <span class="post-author">Oscar Helman</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="post-text">
+                                            <h4><a href="blog-single.php">Make Mobile Website Faster</a></h4>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        </div>
+                                    </div>
+                                </div>
+						</div>
+						
+						<div class="col-lg-4 col-md-6 mb30">
+							<div class="bloglist item">
+                                    <div class="post-content">
+                                        <div class="post-image">
+                                            <img alt="" src="images/news/6.jpg">
+                                            <div class="post-info">
+                                                <div class="inner">
+                                                    <span class="post-date">10 hours ago</span> <span class="post-author">Oscar Helman</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="post-text">
+                                            <h4><a href="blog-single.php">How Sell Digital Product</a></h4>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        </div>
+                                    </div>
+                                </div>
+						</div>
+                    </div>
+                </div>
+            </section>
 
         </div>
         <!-- content close -->
